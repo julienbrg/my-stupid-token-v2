@@ -1,4 +1,4 @@
-# My Super Token v2
+# My Stupid Token v2
 
 Deploy your own ERC-20.
 
@@ -7,7 +7,7 @@ Deploy your own ERC-20.
 Make sure you have these installed:
 
 - [Node.js](https://nodejs.org/en/)
-- [Typescript]https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
+- [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html)
 - [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ## Install
@@ -28,8 +28,8 @@ npx hardhat test
 
 Copy the [`.env.example`](https://github.com/ATO-nft/ato/blob/main/.env.example) file and rename it `.env`. In this `.env` file, you want to:
 
-- Add one of your wallets' private key ([MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key) private key export). It's recommended to create a fresh address, then go grab a handful of Goerli ETH using [this faucet](https://goerlifaucet.com/)
-- Add your own [POKT Network](https://www.pokt.network/) endpoint
+- Add one of your wallets' private key ([MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key) private key export). It's recommended to create a fresh address, then go grab a handful of Goerli ETH using [this faucet](https://goerlifaucet.com/).
+- Add your own [POKT Network](https://www.pokt.network/) Goerli endpoint.
 
 ```shell
 npx hardhat --network goerli deploy

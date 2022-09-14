@@ -47,7 +47,7 @@ npx hardhat --network goerli etherscan-verify --api-key <YOUR_ETHERSCAN_API_KEY>
 
 ## Support
 
-You can contact us via [Element](https://matrix.to/#/@julienbrg:matrix.org) (preferred), [Twitter](https://twitter.com/julienbrg), [Discord](https://discord.gg/xw9dCeQ94Y), [LinkedIn](https://www.linkedin.com/in/julienberanger/) or [email](mailto:julien@strat.cc).
+You can contact me via [Element](https://matrix.to/#/@julienbrg:matrix.org) (preferred), [Twitter](https://twitter.com/julienbrg), [Telegram](https://t.me/julienbrg), [Discord](https://discord.gg/xw9dCeQ94Y), [LinkedIn](https://www.linkedin.com/in/julienberanger/) or [email](mailto:julien@strat.cc).
 
 ## Credits
 
